@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotASurveyGame</string>
+
+    <string name="start_button">START</string>
+    <string name="main_title">WELCOME TO THE MOST UN-SURVEY LIKE GAME!</string>
+    <string name="tap_label">Tap It..</string>
+</resources>
